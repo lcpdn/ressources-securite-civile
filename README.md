@@ -2,8 +2,14 @@
 Parce que des ressources, c'est bien. Une liste c'est mieux. 
 NB: Toutes ces ressources sont en anglais, sauf celles marquées (FR)
 
+##Cursus complets sur la sécurité civile et les crises humanitaires:
 Les cours en ligne de la FEMA (importants, en qualité comme en quantité). Les sujets les plus 'modernes' comme les MSGU sont déjà un peu vieux mais néanmoins toujours pertinents:
 https://training.fema.gov/is/crslist.aspx
+
+La plate-forme de cours en ligne de la Fédération de la Croix-Rouge et du Croissant Rouge (attention, je ne sais plus si l'inscription était restreinte aux bénévoles Croix-Rouge) (FR en partie):
+https://ifrc.csod.com/client/ifrc/default.aspx
+
+##Des MOOCs sur la gestion de crise et les risques. 
 
 Un MOOC spécifique de l'UBO (quoi, j'y ai passé un peu de temps, je fais de la pub :p) sur les risques cotiers (FR):
 https://www.fun-mooc.fr/courses/UBO/63001S02/session02/about 
@@ -11,12 +17,11 @@ https://www.fun-mooc.fr/courses/UBO/63001S02/session02/about
 Un très bon MOOC de l'ESOGN avec Paris Assas sur la Gestion de Crise (FR) :
 https://www.fun-mooc.fr/courses/Paris2/09004S04/session04/about
 
-Un MOOC de l'UTT (coeur coeur sur l'UTT) sur la sécurité civile:
+Un MOOC de l'UTT (coeur coeur sur l'UTT) sur la sécurité globale:
 http://mooc.utt.fr/fr/nos-mooc/mooc-securite-globale.html
 
-La plate-forme de cours en ligne de la Fédération de la Croix-Rouge et du Croissant Rouge (attention, je ne sais plus si l'inscription était restreinte aux bénévoles Croix-Rouge) (FR en partie):
-https://ifrc.csod.com/client/ifrc/default.aspx
 
+##Des MOOCs sur des aspects spécifiques des crises humanitaires ou utiles pour les aspects opérationnels
 Un MOOC de l'université John Hopkins sur la prise en charge psychologique (loin du MSSP, c'est sûr Ah ah ah):
 https://www.coursera.org/learn/psychological-first-aid
 
