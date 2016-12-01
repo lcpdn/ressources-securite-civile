@@ -12,20 +12,26 @@ https://takatu.civildefence.govt.nz/
 La plate-forme de cours en ligne de la Fédération de la Croix-Rouge et du Croissant Rouge (attention, je ne sais plus si l'inscription était restreinte aux bénévoles Croix-Rouge) (FR en partie):
 https://ifrc.csod.com/client/ifrc/default.aspx
 
-##Des MOOCs sur la gestion de crise et les risques. 
+##Des cours sur la gestion de crise et les risques. 
 
-Un MOOC spécifique de l'UBO (quoi, j'y ai passé un peu de temps, je fais de la pub :p) sur les risques cotiers (FR):
+La formation en ligne du Ministère de la Sécurité Publique du Quebec, pour **s'initier** à la sécurité civile (FR):
+http://www.securitepublique.gouv.qc.ca/securite-civile/sinitier/formation-ligne.html 
+
+Un MOOC spécifique de l'UBO *(quoi, j'y ai passé un peu de temps, je fais de la pub :p)* sur les risques cotiers (FR):
 https://www.fun-mooc.fr/courses/UBO/63001S02/session02/about 
 
 Un très bon MOOC de l'ESOGN avec Paris Assas sur la Gestion de Crise (FR) :
 https://www.fun-mooc.fr/courses/Paris2/09004S04/session04/about
 
-Un MOOC de l'UTT (coeur coeur sur l'UTT) sur la sécurité globale (FR):
+Un MOOC de l'UTT *(coeur coeur sur l'UTT)* sur la sécurité globale (FR):
 http://mooc.utt.fr/fr/nos-mooc/mooc-securite-globale.html
 
 Un MOOC de la Massey University sur la gestion de crise en matière de sécurité civile:
 https://www.open2study.com/courses/emergency-management
 (On notera que la Massey University dispose de plusieurs ressources passionantes ici: http://www.massey.ac.nz/massey/learning/departments/school-of-psychology/research/disaster-research/teaching-and-outreach/teaching-and-outreach_home.cfm)
+
+Inclassable: un PDF moche mais officiel qui présente l'organisation de la Sécurité Civile en France:
+http://www.urgences-serveur.fr/IMG/pdf/securitecivile2014.pdf
 
 
 ##Des MOOCs sur des aspects spécifiques des crises humanitaires ou utiles pour les aspects opérationnels
