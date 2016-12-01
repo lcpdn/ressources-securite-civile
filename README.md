@@ -17,7 +17,7 @@ http://www.securitepublique.gouv.qc.ca/securite-civile/sinitier/formation-ligne.
 Tous les guides du ministère sont soigneusement référencés ici (FR):
 http://www.interieur.gouv.fr/Le-ministere/Securite-civile/Documentation-technique/Planification-et-exercices-de-Securite-civile
 
-On notera les guides Orsec G1 à G4 qui sont à mon avis à mettre dans toutes les bibliothèques numériques des gens qui sont intéressés (FR):
+On notera les guides Orsec G2 à G4 qui sont à mon avis à mettre dans toutes les bibliothèques numériques des gens qui sont intéressés par les problématiques de gestion des situations d'urgence (FR):
 
 * [G2: Soutien aux populations](http://www.interieur.gouv.fr/content/download/36236/273752/file/guide%20soutien.pdf)
 * [G3: Mise en place d'une cellule d'information du public](http://www.interieur.gouv.fr/content/download/36495/275819/file/Guide%20G3%20-%20CIP-BD.pdf)
@@ -77,3 +77,4 @@ https://takatu.civildefence.govt.nz/course/index.php?categoryid=16
 On notera un mémoire particulièrement intéressant *(après, c'est bien sûr mon point de vue personnel)* sur les relations entre AASC et les SDIS (FR):
 http://crd.ensosp.fr/doc_num.php?explnum_id=7905
 
+Des idées de ressources qui manquent ? N'hésitez pas à me pinguer sur [Twitter](https://www.twitter.com/patrikryann) ou à m'envoyer un mail sur loic.peden/chez/lcpdn.net
