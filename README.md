@@ -1,4 +1,6 @@
-# ressources-securite-civile
+# Ressources en ligne sur la sécurité civile.
+
+La sécurité Civile, c'est cool. D'ailleurs, on ne peut qu'être heureux que des volontaires rejoignent les Associations Agréées de Sécurité Civile et les Sapeurs Pompiers Volontaires. Par contre, je sais pas pour vous, mais moi j'ai un peu l'impression qu'on manque de référentiels de formations en matière de gestion des situations d'urgence (pas le secours à personne, mais bien l'urgence). 
 Parce que des ressources, c'est bien. Une liste c'est mieux. 
 NB: Toutes ces ressources sont en anglais, sauf celles marquées (FR)
 
@@ -8,6 +10,20 @@ http://www.autoprotectionducitoyen.eu/
 
 La formation en ligne du Ministère de la Sécurité Publique du Quebec, pour **s'initier** à la sécurité civile (FR):
 http://www.securitepublique.gouv.qc.ca/securite-civile/sinitier/formation-ligne.html 
+
+##Guides techniques du ministère de l'intérieur:
+Tous les guides du ministère sont soigneusement référencés ici:
+http://www.interieur.gouv.fr/Le-ministere/Securite-civile/Documentation-technique/Planification-et-exercices-de-Securite-civile
+
+On notera les guides Orsec G1 à G4 qui sont à mon avis à mettre dans toutes les bibliothèques numériques des gens qui sont intéressés:
+[G2: Soutien aux populations](http://www.interieur.gouv.fr/content/download/36236/273752/file/guide%20soutien.pdf)
+[G3: Mise en place d'une cellule d'information du public](http://www.interieur.gouv.fr/content/download/36495/275819/file/Guide%20G3%20-%20CIP-BD.pdf)
+[G4: Alerte et information des populations](http://www.interieur.gouv.fr/content/download/67723/491852/file/GUIDE%20ORSEC-juin%202013-T.G4.pdf)
+
+On pourra aussi noter les passionants retours d'expérience de l'ENSOSP:
+http://crd.ensosp.fr/index.php?opac_view=15&id_rubrique=110&pageid=6
+et de manière plus générale la très riche documentation de l'ENSOSP:
+http://crd.ensosp.fr/
 
 
 ##Cursus complets sur la sécurité civile et les crises humanitaires:
@@ -53,3 +69,8 @@ http://cpe.fiu.edu/moocs/emergency-preparedness.php
 
 On notera aussi que la sécurité civile néo-zélandaise dispos d'une page recensant divers MOOCs sur le sujet des catastrophes naturelles, moins utiles opérationnelement:
 https://takatu.civildefence.govt.nz/course/index.php?categoryid=16
+
+##Divers
+On notera un mémoire particulièrement intéressant *(après, c'est bien sûr mon point de vue personnel)* sur les relations entre AASC et les SDIS:
+http://crd.ensosp.fr/doc_num.php?explnum_id=7905
+
