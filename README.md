@@ -4,11 +4,10 @@ La sécurité Civile, c'est cool. D'ailleurs, on ne peut qu'être heureux que de
 
 Parce que des ressources, il y en a. En faire une liste c'est bien. Partager cette liste, c'est mieux.
 
-*NB: 
-
-* *Toutes ces ressources sont en anglais, sauf celles marquées (FR).
+NB: 
+* Toutes ces ressources sont en anglais, sauf celles marquées (FR).
 * Si j'ai suivi la plupart de ces formations et lu la plupart des documents, cette liste est aussi ma to-do, soyez indulgents en cas d'erreur de casting.
-* Le temps à passer sur ces formations est relativement élevé si l'on veut tout suivre. Rien que le cursus de la FEMA prend quelques mois. Et il y a un certain nombre de répétitions de contenu entre les ressources.*
+* Le temps à passer sur ces formations est relativement élevé si l'on veut tout suivre. Rien que le cursus de la FEMA prend quelques mois. Et il y a un certain nombre de répétitions de contenu entre les ressources.
 
 ##Des ressources grand public à partager à votre tata qui n'y connaît rien au repas de Noël
 Le site officiel maintenu par la Croix-Rouge française et le HCFDC pour se préparer à être prêt (FR):
