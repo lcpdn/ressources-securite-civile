@@ -2,6 +2,14 @@
 Parce que des ressources, c'est bien. Une liste c'est mieux. 
 NB: Toutes ces ressources sont en anglais, sauf celles marquées (FR)
 
+##Des ressources grand public
+Le site officiel maintenu par la Croix-Rouge française et le HCFDC pour se préparer à être prêt:
+http://www.autoprotectionducitoyen.eu/
+
+La formation en ligne du Ministère de la Sécurité Publique du Quebec, pour **s'initier** à la sécurité civile (FR):
+http://www.securitepublique.gouv.qc.ca/securite-civile/sinitier/formation-ligne.html 
+
+
 ##Cursus complets sur la sécurité civile et les crises humanitaires:
 Les cours en ligne de la FEMA (importants, en qualité comme en quantité). Les sujets les plus 'modernes' comme les MSGU sont déjà un peu vieux mais néanmoins toujours pertinents:
 https://training.fema.gov/is/crslist.aspx
@@ -13,10 +21,6 @@ La plate-forme de cours en ligne de la Fédération de la Croix-Rouge et du Croi
 https://ifrc.csod.com/client/ifrc/default.aspx
 
 ##Des cours sur la gestion de crise et les risques. 
-
-La formation en ligne du Ministère de la Sécurité Publique du Quebec, pour **s'initier** à la sécurité civile (FR):
-http://www.securitepublique.gouv.qc.ca/securite-civile/sinitier/formation-ligne.html 
-
 Un MOOC spécifique de l'UBO *(quoi, j'y ai passé un peu de temps, je fais de la pub :p)* sur les risques cotiers (FR):
 https://www.fun-mooc.fr/courses/UBO/63001S02/session02/about 
 
