@@ -1,8 +1,8 @@
-# Ressources en ligne sur la sécurité civile.
+# Ressources en ligne sur le domaine de l'urgence en matière de sécurité civile.
 
-La sécurité Civile, c'est cool. D'ailleurs, on ne peut qu'être heureux que des volontaires rejoignent les Associations Agréées de Sécurité Civile et les Sapeurs Pompiers Volontaires. Par contre, je sais pas pour vous, mais moi j'ai un peu l'impression qu'on manque de référentiels de formations en matière de gestion des situations d'urgence (pas le secours à personne, mais bien l'urgence). Du coup, comme Internet est vaste, on peut au moins aller se cultiver ailleurs.
+La sécurité Civile, c'est cool. D'ailleurs, on ne peut qu'être heureux que des volontaires rejoignent les Associations Agréées de Sécurité Civile et les Sapeurs Pompiers Volontaires. Par contre, je sais pas pour vous, mais moi j'ai un peu l'impression qu'on manque de référentiels de formations en matière de gestion des situations d'urgence. Contrairement au secourisme où les référentiels sont stricts et les entraînements très réguliers (hebdomadaires parfois), l'Urgence est bien souvent délaissé en matière de formation (interne aux AASC ou même depuis les services de l'état vers les AASC) et de pratique d'exercices (il faut dire que les ressources humaines et matérielles sont relativement plus importantes à mobiliser que dans un ~simple~ cas concret de secourisme). Du coup, pour mon usage personnel, j'ai suivi un certain nombre de formations en ligne et recensé certaines ressources disponibles et pertinentes.
 
-Parce que des ressources, c'est bien. Une liste c'est mieux. 
+Parce que des ressources, il y en a. En faire une liste c'est bien. Partager cette liste, c'est mieux.
 
 *NB: Toutes ces ressources sont en anglais, sauf celles marquées (FR)*
 
@@ -30,6 +30,8 @@ http://crd.ensosp.fr/
 
 
 ##Cursus complets sur la sécurité civile et les crises humanitaires:
+A mon avis, il faudrait mettre sur place un cursus en ligne complet permettant d'avoir une compréhension la plus complète possibles situations de crise, du domaine de l'urgence et des bonnes pratiques à appliquer. Il ne s'agirait pas d'avoir un cadre strict à suivre (les POS sont là pour ça), mais bien d'avoir une compréhension et un certain recul permettant une bonne prise de décision. A défaut d'avoir un vrai cursus francophone (celui de la Fédération est trop orienté humanitaire à mon avis), on peut se rabattre sur les cursus de la FEMA américaine et du ministère de la Civil Defence de Nouvelle-Zélande.
+
 Les cours en ligne de la FEMA (importants, en qualité comme en quantité). Les sujets les plus 'modernes' comme les MSGU sont déjà un peu vieux mais néanmoins toujours pertinents:
 https://training.fema.gov/is/crslist.aspx
 
