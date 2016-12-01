@@ -11,6 +11,9 @@ https://www.fun-mooc.fr/courses/UBO/63001S02/session02/about
 Un très bon MOOC de l'ESOGN avec Paris Assas sur la Gestion de Crise (FR) :
 https://www.fun-mooc.fr/courses/Paris2/09004S04/session04/about
 
+Un MOOC de l'UTT (coeur coeur sur l'UTT) sur la sécurité civile:
+http://mooc.utt.fr/fr/nos-mooc/mooc-securite-globale.html
+
 La plate-forme de cours en ligne de la Fédération de la Croix-Rouge et du Croissant Rouge (attention, je ne sais plus si l'inscription était restreinte aux bénévoles Croix-Rouge) (FR en partie):
 https://ifrc.csod.com/client/ifrc/default.aspx
 
