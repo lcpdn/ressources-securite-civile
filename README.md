@@ -4,7 +4,9 @@ La sécurité Civile, c'est cool. D'ailleurs, on ne peut qu'être heureux que de
 
 Parce que des ressources, il y en a. En faire une liste c'est bien. Partager cette liste, c'est mieux.
 
-*NB: Toutes ces ressources sont en anglais, sauf celles marquées (FR)*
+*NB: Toutes ces ressources sont en anglais, sauf celles marquées (FR).
+Si j'ai suivi la plupart de ces formations et lu la plupart des documents, cette liste est aussi ma to-do, soyez indulgents en cas d'erreur de casting.
+Le temps à passer sur ces formations est relativement élevé si l'on veut tout suivre. Rien que le cursus de la FEMA prend quelques mois. Et il y a un certain nombre de répétitions de contenu entre les ressources.*
 
 ##Des ressources grand public à partager à votre tata qui n'y connaît rien au repas de Noël
 Le site officiel maintenu par la Croix-Rouge française et le HCFDC pour se préparer à être prêt (FR):
@@ -79,4 +81,5 @@ https://takatu.civildefence.govt.nz/course/index.php?categoryid=16
 On notera un mémoire particulièrement intéressant *(après, c'est bien sûr mon point de vue personnel)* sur les relations entre AASC et les SDIS (FR):
 http://crd.ensosp.fr/doc_num.php?explnum_id=7905
 
+Une version actualisée de ce document est disponible sur mon [repo GitHub](https://github.com/lcpdn/ressources-securite-civile/blob/master/README.md).
 Des idées de ressources qui manquent ? N'hésitez pas à me pinguer sur [Twitter](https://www.twitter.com/patrikryann) ou à m'envoyer un mail sur loic.peden/chez/lcpdn.net
