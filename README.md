@@ -61,7 +61,7 @@ Inclassable: un PDF moche mais officiel qui présente l'organisation de la Sécu
 http://www.urgences-serveur.fr/IMG/pdf/securitecivile2014.pdf
 
 
-##Des MOOCs sur des aspects spécifiques des crises humanitaires ou utiles pour les aspects opérationnels
+##Des ressources sur des aspects spécifiques des crises humanitaires ou utiles pour les aspects opérationnels
 Un MOOC de l'université John Hopkins sur la prise en charge psychologique (loin du MSSP, c'est sûr Ah ah ah):
 https://www.coursera.org/learn/psychological-first-aid
 
@@ -76,6 +76,11 @@ http://cpe.fiu.edu/moocs/emergency-preparedness.php
 
 On notera aussi que la sécurité civile néo-zélandaise dispos d'une page recensant divers MOOCs sur le sujet des catastrophes naturelles, moins utiles opérationnelement:
 https://takatu.civildefence.govt.nz/course/index.php?categoryid=16
+
+Une grande collection de Medbox.org signalée par [Oldu_fr](https://twitter.com/oldu_fr)  et recensant des guides sur la [préparation aux désastres](https://www.medbox.org/disaster-preparedness/listing) ou encore l'[aide humanitaire](https://www.medbox.org/humanitarian-aid/listing), mais qui dispose aussi de boîtes à outils assez complètes comme celle sur la [réponse d'urgence](https://www.medbox.org/rapid-response/toolboxes/listing):
+https://www.medbox.org/
+
+
 
 ##Divers
 On notera un [mémoire](http://crd.ensosp.fr/doc_num.php?explnum_id=7905) particulièrement intéressant *(après, c'est bien sûr mon point de vue personnel)* sur les relations entre AASC et les SDIS (FR).
