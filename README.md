@@ -30,6 +30,9 @@ On notera les guides Orsec G2 à G4 qui sont à mon avis à mettre dans toutes l
 On pourra aussi noter les passionants [retours d'expérience](http://crd.ensosp.fr/index.php?opac_view=15&id_rubrique=110&pageid=6) de l'ENSOSP (FR) et de manière plus générale la très riche documentation de l'ENSOSP (FR):
 http://crd.ensosp.fr/
 
+Toujours à noter du côté de l'ENSOSP, merci [Gilles](https://www.twitter.com/Gilles_Martin_) pour avoir réparé l'oubli, leur très complet Portail National des Ressources et des Savoirs disponible ici (FR):
+http://pnrs.ensosp.fr/ 
+
 
 ##Cursus complets sur la sécurité civile et les crises humanitaires:
 A mon avis, il faudrait mettre sur place un cursus en ligne complet permettant d'avoir une compréhension la plus complète possibles situations de crise, du domaine de l'urgence et des bonnes pratiques à appliquer. Il ne s'agirait pas d'avoir un cadre strict à suivre (les POS sont là pour ça), mais bien d'avoir une compréhension et un certain recul permettant une bonne prise de décision. A défaut d'avoir un vrai cursus francophone (celui de la Fédération est trop orienté humanitaire à mon avis), on peut se rabattre sur les cursus de la FEMA américaine et du ministère de la Civil Defence de Nouvelle-Zélande.
@@ -81,6 +84,13 @@ Une grande collection de Medbox.org signalée par [Oldu_fr](https://twitter.com/
 https://www.medbox.org/
 
 
+##Actualités de la sécurité civile en France et ailleurs
+
+On retrouvera sur le site de l'IFRASEC un certain nombre de documents d'actualités et de notes complètes sur la sécurité civile en France (FR):
+http://www.ifrasec.org/
+
+On peut également consulter la newsletter d'ATRISC qui compile régulièrement des ressources sur le Web (FR):
+http://www.atrisc.com//notre-newsletter/
 
 ##Divers
 On notera un [mémoire](http://crd.ensosp.fr/doc_num.php?explnum_id=7905) particulièrement intéressant *(après, c'est bien sûr mon point de vue personnel)* sur les relations entre AASC et les SDIS (FR).
