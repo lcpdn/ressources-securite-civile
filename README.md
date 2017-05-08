@@ -10,14 +10,14 @@ NB:
 * Si j'ai suivi la plupart de ces formations et lu la plupart des documents, cette liste est aussi ma to-do, soyez indulgents en cas d'erreur de casting.
 * Le temps à passer sur ces formations est relativement élevé si l'on veut tout suivre. Rien que le cursus de la FEMA prend quelques mois. Et il y a un certain nombre de répétitions de contenu entre les ressources.
 
-##Des ressources grand public à partager à votre tata qui n'y connaît rien au repas de Noël
+## Des ressources grand public à partager à votre tata qui n'y connaît rien au repas de Noël
 Le site officiel maintenu par la Croix-Rouge française et le HCFDC pour se préparer à être prêt (FR):
 http://www.autoprotectionducitoyen.eu/
 
 La formation en ligne du Ministère de la Sécurité Publique du Quebec, pour **s'initier** à la sécurité civile (FR):
 http://www.securitepublique.gouv.qc.ca/securite-civile/sinitier/formation-ligne.html 
 
-##Guides techniques du ministère de l'intérieur:
+## Guides techniques du ministère de l'intérieur:
 Tous les guides du ministère sont soigneusement référencés ici (FR):
 http://www.interieur.gouv.fr/Le-ministere/Securite-civile/Documentation-technique/Planification-et-exercices-de-Securite-civile
 
@@ -34,7 +34,7 @@ Toujours à noter du côté de l'ENSOSP, merci [Gilles](https://www.twitter.com/
 http://pnrs.ensosp.fr/ 
 
 
-##Cursus complets sur la sécurité civile et les crises humanitaires:
+## Cursus complets sur la sécurité civile et les crises humanitaires:
 A mon avis, il faudrait mettre sur place un cursus en ligne complet permettant d'avoir une compréhension la plus complète possibles situations de crise, du domaine de l'urgence et des bonnes pratiques à appliquer. Il ne s'agirait pas d'avoir un cadre strict à suivre (les POS sont là pour ça), mais bien d'avoir une compréhension et un certain recul permettant une bonne prise de décision. A défaut d'avoir un vrai cursus francophone (celui de la Fédération est trop orienté humanitaire à mon avis), on peut se rabattre sur les cursus de la FEMA américaine et du ministère de la Civil Defence de Nouvelle-Zélande.
 
 Les cours en ligne de la FEMA (importants, en qualité comme en quantité). Les sujets les plus 'modernes' comme les MSGU sont déjà un peu vieux mais néanmoins toujours pertinents:
@@ -46,7 +46,7 @@ https://takatu.civildefence.govt.nz/
 La plate-forme de cours en ligne de la Fédération de la Croix-Rouge et du Croissant Rouge (attention, je ne sais plus si l'inscription était restreinte aux bénévoles Croix-Rouge) (FR en partie):
 https://ifrc.csod.com/client/ifrc/default.aspx
 
-##Des cours sur la gestion de crise et les risques. 
+## Des cours sur la gestion de crise et les risques. 
 Un MOOC spécifique de l'UBO *(quoi, j'y ai passé un peu de temps, je fais de la pub :p)* sur les risques cotiers (FR):
 https://www.fun-mooc.fr/courses/UBO/63001S02/session02/about 
 
@@ -64,7 +64,7 @@ Inclassable: un PDF moche mais officiel qui présente l'organisation de la Sécu
 http://www.urgences-serveur.fr/IMG/pdf/securitecivile2014.pdf
 
 
-##Des ressources sur des aspects spécifiques des crises humanitaires ou utiles pour les aspects opérationnels
+## Des ressources sur des aspects spécifiques des crises humanitaires ou utiles pour les aspects opérationnels
 Un MOOC de l'université John Hopkins sur la prise en charge psychologique (loin du MSSP, c'est sûr Ah ah ah):
 https://www.coursera.org/learn/psychological-first-aid
 
@@ -84,7 +84,7 @@ Une grande collection de Medbox.org signalée par [Oldu_fr](https://twitter.com/
 https://www.medbox.org/
 
 
-##Actualités de la sécurité civile en France et ailleurs
+## Actualités de la sécurité civile en France et ailleurs
 
 On retrouvera sur le site de l'IFRASEC un certain nombre de documents d'actualités et de notes complètes sur la sécurité civile en France (FR):
 http://www.ifrasec.org/
@@ -92,7 +92,7 @@ http://www.ifrasec.org/
 On peut également consulter la newsletter d'ATRISC qui compile régulièrement des ressources sur le Web (FR):
 http://www.atrisc.com//notre-newsletter/
 
-##Divers
+## Divers
 On notera un [mémoire](http://crd.ensosp.fr/doc_num.php?explnum_id=7905) particulièrement intéressant *(après, c'est bien sûr mon point de vue personnel)* sur les relations entre AASC et les SDIS (FR).
 
 Une version actualisée de ce document est disponible sur mon [repo GitHub](https://github.com/lcpdn/ressources-securite-civile/blob/master/README.md).
